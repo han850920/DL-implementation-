@@ -27,6 +27,7 @@ If it's not in your package pool, try pip install.
 
 ```
 $ pip3 install --upgrade pip
+
 $ pip3 install jupyter
 ```
 
