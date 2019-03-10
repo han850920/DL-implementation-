@@ -33,11 +33,11 @@ $ pip3 install jupyter
 
 ## Running the tests
 
-There are four main target in the implementation:
+There are four main targets in the implementation:
 
 - Implement a Convolutional Neural Network (CNN) that consists of convolutional layers and fully-connected (FC or MLP) layers
 - Instantiate a [784, 50, 10] MLP and a LeNet-5-like CNN
-- Train both MLP and CNN using the MNIST-60000 dataset
+- Train both MLP and CNN using the MNIST dataset
 - Exploit the impact of hyperparameters (learning rate, batch size, activation function, etc) on training accuracy and training time
 
 Running demo.ipynb 
@@ -48,6 +48,6 @@ Just execute each cell of demo.ipynb and get the result.
 
 ## Authors
 
-The project is the assignment of course, Programming Top Ten Important Algorithms in Python, lectured by Professor Youn-Long Lin, C.S. NTHU 
+The project is the assignment of the course, Programming Top Ten Important Algorithms in Python, lectured by Professor Youn-Long Lin, C.S. NTHU 
 
-Detail implemented by Min-Han Tsai, C.S. NTHU
+Details implemented by Min-Han Tsai, C.S. NTHU
