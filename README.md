@@ -12,7 +12,6 @@ Anaconda will is a pretty convenient tool to install any version of Python. Plea
 
 ```
 https://www.anaconda.com/download/
-
 ```
 
 ### Installing
