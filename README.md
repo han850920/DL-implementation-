@@ -8,7 +8,7 @@ You don't need install any other package but Python 3.5 only.
 
 ### Prerequisites
 
-Anaconda will is a pretty convenient tool to install any version of Python. Please check the url below and download as your requested.
+Anaconda will be a pretty convenient tool to install any version of Python. Please check the url below and download as your requested.
 
 ```
 https://www.anaconda.com/download/
@@ -16,13 +16,13 @@ https://www.anaconda.com/download/
 
 ### Installing
 
-First, before runnung demo.ipynb, you should acquire the dataset first, which can be cloned together with this project.	
+First, before running demo.ipynb, you should acquire the dataset first, which is in the ./dataset/mnist_dataset	
 
 ```
 unzip dataset/mnist_dataset.zip
 ```
 
-Second, to visualize and analysis the outcome, we take adventage of Jupyter Notebook. It would be installed when you install the python
+Second, to visualize and analysis the outcome, we take adventage of Jupyter Notebook. It would be installed when you install python.
 If it's not in your package pool, try pip install.  
 
 ```
@@ -43,7 +43,7 @@ There are four main targets in the implementation:
 Running demo.ipynb 
 
 ```
-Just execute each cell of demo.ipynb and get the result.
+Just execute each cell of demo.ipynb to get the result.
 ```
 
 ## Authors
