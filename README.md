@@ -1,6 +1,6 @@
 # Deep Learning Neural Networks
 
-This is a project that implementing Multilayer Pereptron and Convolution Neural Networks without DL library(e.g. tensorflow,pythorch......)
+This is a project that implementing Multilayer Perceptron and Convolution Neural Networks without DL library(e.g. tensorflow,pythorch......)
 And we use MNIST dataset to demo our model. 
 ## Getting Started
 
