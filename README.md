@@ -19,7 +19,7 @@ https://www.anaconda.com/download/
 First, before runnung demo.ipynb, you should acquire the dataset first, which can be cloned together with this project.	
 
 ```
-unzip dataset/mnist_dataset
+unzip dataset/mnist_dataset.zip
 ```
 
 Second, to visualize and analysis the outcome, we take adventage of Jupyter Notebook. It would be installed when you install the python
